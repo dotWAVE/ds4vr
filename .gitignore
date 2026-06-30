@@ -1,0 +1,9 @@
+/build/
+/out/
+/.vs/
+/.vscode/
+/.idea/
+*.user
+*.suo
+CMakeUserPresets.json
+ds4vr-release.zip

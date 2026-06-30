@@ -1,0 +1,7 @@
+{
+    "alwaysActivate": true,
+    "jsonid": "vrdrivermanifest",
+    "name": "ds4vr",
+    "resourceOnly": false,
+    "hmd_match_filter": []
+}
