@@ -42,6 +42,6 @@ scripts/install.ps1 to install the driver to SteamVR. Note: the driver will exis
 scripts/uninstall.ps1 will remove the driver from SteamVR.
 
 # Troubleshooting
-## Spurious inputs while playing VRChat
-VRChat process inputs from DualShock and DualSense controllers, even when playing in VR mode. This causes things like difficulty gripping objects and some DPAD inputs toggling the HUD and other such things. (See https://docs.vrchat.com/docs/gamepad)
+## Strange/unwanted inputs while playing VRChat
+VRChat process inputs from DualShock and DualSense controllers, even when playing in VR mode. This causes things like difficulty gripping objects and some DPAD inputs toggling the HUD, nameplates, AFK mode. (See https://docs.vrchat.com/docs/gamepad)
 The simplest workaround is to play without having the VRChat game window in focus.
